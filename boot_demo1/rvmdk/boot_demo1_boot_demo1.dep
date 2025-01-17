@@ -1,0 +1,8 @@
+Dependencies for Project 'boot_demo1', Target 'boot_demo1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::ARMCC
+F (.\boot_demo1.c)(0x65D85EE4)(-c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I .. -I ..\..\..\.. --c99-ID:\Keil_v5\ARM\RV31\INC-ID:\Keil_v5\ARM\CMSIS\Include-ID:\Keil_v5\ARM\INC\Luminary-D__UVISION_VERSION="533" -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA2-o .\rvmdk\boot_demo1.o --omf_browse .\rvmdk\boot_demo1.crf --depend .\rvmdk\boot_demo1.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E2EB2)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+F (.\startup_rvmdk.S)(0x65D85EE4)(--cpu Cortex-M4.fp.sp -g --apcs=interwork --pd "__MICROLIB SETA 1"-ID:\Keil_v5\ARM\RV31\INC-ID:\Keil_v5\ARM\CMSIS\Include-ID:\Keil_v5\ARM\INC\Luminary--pd "__UVISION_VERSION SETA 533"-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x00000000)()
+F (.\readme.txt)(0x65D85EE4)()
